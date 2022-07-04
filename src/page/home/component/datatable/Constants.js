@@ -29,7 +29,7 @@ function getTagColor(tag) {
   return 'blue';
 }
 
-export const PAGE_SIZE = 4;
+export const PAGE_SIZE = 2;
 export const dataSource = {
   totalElements: 3,
   content: [
